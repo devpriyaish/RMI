@@ -12,7 +12,7 @@ java Client
 
 
 -----------------------------------------------
-//For Linux & Mac
+//For Windows
 //Comands on 1st Terminal
 
 javac *.java
